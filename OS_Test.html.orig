@@ -1,0 +1,19 @@
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=euc-kr" />
+<title>Welcome to Open Source Git Lecture</title>
+</head>
+
+
+<body>
+
+<<<<<<< HEAD
+<p>Hello World! Correct at origin </p>
+=======
+<p>Hello World! Correct at other </p>
+>>>>>>> 3f48d225db2e5d0e04d6079f5845a817bc061ef2
+
+<p>Hello World! Confilct!!!!</p>
+
+</body>
+</html>
